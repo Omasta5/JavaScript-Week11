@@ -1,0 +1,19 @@
+{
+    "companyName": "Little Baby's Ice Cream",
+    "headOffice": "BraceBridge",
+    "established": 2004,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 240,
+        "type": "ice-cream",
+        "ingrediants": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 220,
+        "type": "milkshake-type ice-cream",
+        "ingrediants": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "images/peach-mango.svg"
+    }]
+}
